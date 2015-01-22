@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Web Design, The Iron Yard Austin — Jan 2015 </title>
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css" />
+  <script src="//use.typekit.net/bkc2rzt.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+
+  <!--responsive nav-->
+<script src="js/responsive-nav.min.js"></script>
+
+</head>
+<body>
+<header>
+<div class="logo">
+<a href="{{ site.url }}/index.html"><img src="{{ site.url}}/images/webdesign.png" alt="webdesignlogo.png"></a>
+</div>
+<h3 class="hidesm">Web Design</h3>
+<h4 class="hidesm">TIY Austin<br>Jan 2015</h4>
+</h1>
+<nav class="nav-collapse">
+ <ul>
+  <li><a href="{{ site.url }}/resources.html">Resources</a></li>
+    <li><a href="{{ site.url }}/resources.html">Schedule</a></li>
+ <li><a href="{{ site.url }}/events.html">Events Calendar</a></li>
+<li><a href="https://github.com/tiy-austin-wd-jan2015">View on GitHub</a></li>
+{% assign show = (site.pages | where: "layout" , "week") %}
+{% for page in show %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+{% endfor %}
+
+</ul>
+</nav>
+   </header>
+<div class="wrapper">
+    {{ content | markdownify }}
+      </section>
+
+    <!-- FOOTER  -->
+
+      <footer class="inner">
+      <p>This project is maintained by Sam Kapila and The Iron Yard.</p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+</body>
+</html>
