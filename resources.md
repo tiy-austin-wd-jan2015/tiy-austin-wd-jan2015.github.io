@@ -24,6 +24,7 @@ Some links that I find myself frequently sharing with others. Will continue to a
 * [CopyPasteCharacter](http://copypastecharacter.com/)
 * [Quotes and Accents – Jessica Hische](http://copypastecharacter.com/)
 * [Typ.io (Web Typography gallery)](http://www.typ.io)
+* [State of WebType](http://stateofwebtype.com/)
 
 ### SVGS
 * Daniel Mall’s [_SVG Workflow for Designers_](http://danielmall.com/articles/svg-workflow-for-designers/): (I’ve been hoarding this one for over a year now!)
