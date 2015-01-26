@@ -5,8 +5,8 @@ time: Jan 8th, 2015
 tag: SHOW
 ---
 # Welcome to Web Design at The Iron Yard Austin
-Our class begins January 26th at Building K at Penn Field and end April 17th.
-By this time students have completed the required Prework, and may have chosen to complete PreWorkPlus.
+The class begins January 26th at Building K at Penn Field and ends April 17th.
+By this time students have completed the required [Prework](http://tiy-austin-wd-jan2015.github.io/Onboarding/), and, optionally, may have chosen to complete [PreWorkPlus](http://tiy-austin-wd-jan2015.github.io/PreWorkPlus/).
 
 ### Contact
 Sam Kapila, Web Design Instructor: sam@theironyard.com
