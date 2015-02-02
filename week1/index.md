@@ -12,8 +12,6 @@ This week, we cover topics including: {{ page.desc }}
 * [Tuesday]({{ site.url }}/week{{ page.week }}/02.html)
 * [Wednesday]({{ site.url }}/week{{ page.week }}/03.html)
 * [Thursday]({{ site.url }}/week{{ page.week }}/04.html)
-
-<!--
 * [Friday]({{ site.url }}/week{{ page.week }}/05.html)
- -->
+
 
