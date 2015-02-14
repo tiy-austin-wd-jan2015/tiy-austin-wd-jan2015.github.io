@@ -16,7 +16,8 @@ margin-bottom: $base/3;
 }
 h1{
 font-size: (($ratio)*2)*($base);
-letter-spacing: -.05em;
+letter-spacing: -.02em;
+font-weight: 900;
 }
 h2 {
 color: $dark;
@@ -68,10 +69,15 @@ header {
 	}
 }
 
-footer {
-	font-size: .75em;
+footer p{
+	font-size: .8em;
 }
 
 .wrapper li {
 	margin-left: 25px;
+}
+
+code {
+	background: rbga($light, .3);
+	padding: 0 1px;
 }

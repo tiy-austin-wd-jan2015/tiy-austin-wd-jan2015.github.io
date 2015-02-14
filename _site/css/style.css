@@ -55,7 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 3.236rem;
-  letter-spacing: -.05em; }
+  letter-spacing: -.02em;
+  font-weight: 900; }
 
 h2 {
   color: #004454;
@@ -96,11 +97,15 @@ header h3 {
 header ul {
   font-size: .95em; }
 
-footer {
-  font-size: .75em; }
+footer p {
+  font-size: .8em; }
 
 .wrapper li {
   margin-left: 25px; }
+
+code {
+  background: rbga(#b2e0c9, 0.3);
+  padding: 0 1px; }
 
 * {
   -moz-box-sizing: border-box;
