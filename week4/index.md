@@ -2,7 +2,7 @@
 layout: week
 title: Week 4
 week: 04
-desc: a deep dive Responsive, design foundations, sketching, and Photoshop and Illustrator.
+desc: a deep dive into Responsive, design foundations, sketching, and Photoshop and Illustrator.
 ---
 
 ## Week {{ page.week }}
