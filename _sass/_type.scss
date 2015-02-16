@@ -78,6 +78,8 @@ footer p{
 }
 
 code {
+	font-size: 1.125em;
+	font-family: monospace;
 	background: rbga($light, .3);
-	padding: 0 1px;
+	padding: 2px;
 }

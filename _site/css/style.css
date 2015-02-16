@@ -104,8 +104,10 @@ footer p {
   margin-left: 25px; }
 
 code {
+  font-size: 1.125em;
+  font-family: monospace;
   background: rbga(#b2e0c9, 0.3);
-  padding: 0 1px; }
+  padding: 2px; }
 
 * {
   -moz-box-sizing: border-box;
