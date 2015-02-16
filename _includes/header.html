@@ -24,12 +24,24 @@
 <!--   <li><a href="{{ site.url }}/resources.html">Resources</a></li> -->
  <li><a href="{{ site.url }}/events.html">Events Calendar</a></li>
 <li><a href="https://github.com/tiy-austin-wd-jan2015">View on GitHub</a></li>
-{% assign show = (site.pages | where: "layout" , "week") %}
+    <li>
+      <a href="{{ site.url }}/week1">Week 1</a>
+    </li>
+    <li>
+      <a href="{{ site.url }}/week2">Week 2</a>
+    </li>
+    <li>
+      <a href="{{ site.url }}/week3">Week 3</a>
+    </li>
+    <li>
+      <a href="{{ site.url }}/week4">Week 4</a>
+    </li>
+<!-- {% assign show = (site.pages | where: "layout" , "week") %}
 {% for page in show %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
-{% endfor %}
+{% endfor %} -->
 
 </ul>
 </nav>
