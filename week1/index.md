@@ -2,6 +2,7 @@
 layout: week
 title: Week 1
 week: 01
+weight: 1
 desc: An overview of Web Design, mac basics, HTML and CSS basics, Github and CodePen basics. By the end of the week, students should understand the structure of HTML documents, the syntax of both HTML and CSS and how they interact.
 ---
 

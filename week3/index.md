@@ -2,6 +2,7 @@
 layout: week
 title: Week 3
 week: 03
+weight: 3
 desc: a deep dive into Sass, bourbon, and grids, and a basic dive in responsive web design. In addition, we will discuss Photoshop and Illustrator’s roles in web design.
 ---
 

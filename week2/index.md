@@ -2,6 +2,7 @@
 layout: week
 title: Week 2
 week: 02
+weight: 2
 desc: More about the web design process, speaking up, how to critique, advanced HTML and CSS, dealing with images, working with local and remote files, Github basics and repositories, version control, and Sass.
 ---
 
