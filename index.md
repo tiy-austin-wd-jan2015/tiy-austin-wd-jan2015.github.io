@@ -16,8 +16,6 @@ Katlyn Whittenburg, Campus Director: katlyn@theironyard.com
 ### Hours
 Class is Monday through Thursday 9am–12pm, and lab hours are 1-5pm Monday through Thursday, and 9am-12pm and 1-5pm on Friday. The lab space is available for student use 24/7.
 
-` jekyll serve `
-
 ### Communication Policy
 * More is better than less
 * A peer is better than a Google search
